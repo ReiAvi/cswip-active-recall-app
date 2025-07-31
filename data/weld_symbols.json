@@ -1,0 +1,242 @@
+{
+    "E01": {
+        "name": "Square butt weld",
+        "category": "Butt",
+        "iso_reference": "ISO 2553 Table 1",
+        "path": "weld_symbols/elementary/E01_square_butt.svg"
+    },
+    "E02": {
+        "name": "Single-V butt weld",
+        "category": "Butt",
+        "iso_reference": "ISO 2553 Table 1",
+        "path": "weld_symbols/elementary/E02_single_v_butt.svg"
+    },
+    "E03": {
+        "name": "Single-V butt weld with broad root face",
+        "category": "Butt",
+        "iso_reference": "ISO 2553 Table 1",
+        "path": "weld_symbols/elementary/E03_single_v_broad_root.svg"
+    },
+    "E04": {
+        "name": "Single-bevel butt weld",
+        "category": "Butt",
+        "iso_reference": "ISO 2553 Table 1",
+        "path": "weld_symbols/elementary/E04_single_bevel_butt.svg"
+    },
+    "E05": {
+        "name": "Single-bevel butt weld with broad root face",
+        "category": "Butt",
+        "iso_reference": "ISO 2553 Table 1",
+        "path": "weld_symbols/elementary/E05_single_bevel_broad_root.svg"
+    },
+    "E06": {
+        "name": "Single-U butt weld",
+        "category": "Butt",
+        "iso_reference": "ISO 2553 Table 1",
+        "path": "weld_symbols/elementary/E06_single_u_butt.svg"
+    },
+    "E07": {
+        "name": "Single-J butt weld",
+        "category": "Butt",
+        "iso_reference": "ISO 2553 Table 1",
+        "path": "weld_symbols/elementary/E07_single_j_butt.svg"
+    },
+    "E08": {
+        "name": "Flare-V butt weld",
+        "category": "Butt",
+        "iso_reference": "ISO 2553 Table 1",
+        "path": "weld_symbols/elementary/E08_flare_v_butt.svg"
+    },
+    "E09": {
+        "name": "Flare-bevel butt weld",
+        "category": "Butt",
+        "iso_reference": "ISO 2553 Table 1",
+        "path": "weld_symbols/elementary/E09_flare_bevel_butt.svg"
+    },
+    "E10": {
+        "name": "Fillet weld",
+        "category": "Fillet",
+        "iso_reference": "ISO 2553 Table 1",
+        "path": "weld_symbols/elementary/E10_fillet.svg"
+    },
+    "E11": {
+        "name": "Plug weld",
+        "category": "Plug",
+        "iso_reference": "ISO 2553 Table 1",
+        "path": "weld_symbols/elementary/E11_plug.svg"
+    },
+    "E12.1": {
+        "name": "Resistance spot weld",
+        "category": "Spot",
+        "iso_reference": "ISO 2553 Table 1",
+        "path": "weld_symbols/elementary/E12_1_resistance_spot.svg"
+    },
+    "E12.2": {
+        "name": "Projection weld",
+        "category": "Spot",
+        "iso_reference": "ISO 2553 Table 1",
+        "path": "weld_symbols/elementary/E12_2_projection.svg"
+    },
+    "E13": {
+        "name": "Fusion spot weld",
+        "category": "Spot",
+        "iso_reference": "ISO 2553 Table 1",
+        "path": "weld_symbols/elementary/E13_fusion_spot.svg"
+    },
+    "E14": {
+        "name": "Resistance seam weld",
+        "category": "Seam",
+        "iso_reference": "ISO 2553 Table 1",
+        "path": "weld_symbols/elementary/E14_resistance_seam.svg"
+    },
+    "E15": {
+        "name": "Fusion seam weld",
+        "category": "Seam",
+        "iso_reference": "ISO 2553 Table 1",
+        "path": "weld_symbols/elementary/E15_fusion_seam.svg"
+    },
+    "E16": {
+        "name": "Stud weld",
+        "category": "Stud",
+        "iso_reference": "ISO 2553 Table 1",
+        "path": "weld_symbols/elementary/E16_stud.svg"
+    },
+    "E17": {
+        "name": "Steep-flanked single-V butt weld",
+        "category": "Butt",
+        "iso_reference": "ISO 2553 Table 1",
+        "path": "weld_symbols/elementary/E17_steep_v_butt.svg"
+    },
+    "E18": {
+        "name": "Steep-flanked single-bevel butt weld",
+        "category": "Butt",
+        "iso_reference": "ISO 2553 Table 1",
+        "path": "weld_symbols/elementary/E18_steep_bevel_butt.svg"
+    },
+    "E19": {
+        "name": "Edge weld",
+        "category": "Edge",
+        "iso_reference": "ISO 2553 Table 1",
+        "path": "weld_symbols/elementary/E19_edge.svg"
+    },
+    "E20.1": {
+        "name": "Flanged butt weld",
+        "category": "Butt",
+        "iso_reference": "ISO 2553 Table 1",
+        "path": "weld_symbols/elementary/E20_1_flanged_butt.svg"
+    },
+    "E20.2": {
+        "name": "Flanged corner weld",
+        "category": "Corner",
+        "iso_reference": "ISO 2553 Table 1",
+        "path": "weld_symbols/elementary/E20_2_flanged_corner.svg"
+    },
+    "E21": {
+        "name": "Overlay weld",
+        "category": "Overlay",
+        "iso_reference": "ISO 2553 Table 1",
+        "path": "weld_symbols/elementary/E21_overlay.svg"
+    },
+    "E22": {
+        "name": "Stake weld",
+        "category": "Stake",
+        "iso_reference": "ISO 2553 Table 1",
+        "path": "weld_symbols/elementary/E22_stake.svg"
+    },
+    "S01": {
+        "name": "Flush contour",
+        "category": "Supplementary",
+        "iso_reference": "ISO 2553 Table 3",
+        "path": "weld_symbols/supplementary/S01_flush.svg"
+    },
+    "S02": {
+        "name": "Convex contour",
+        "category": "Supplementary",
+        "iso_reference": "ISO 2553 Table 3",
+        "path": "weld_symbols/supplementary/S02_convex.svg"
+    },
+    "S03": {
+        "name": "Concave contour",
+        "category": "Supplementary",
+        "iso_reference": "ISO 2553 Table 3",
+        "path": "weld_symbols/supplementary/S03_concave.svg"
+    },
+    "S04": {
+        "name": "Toes blended smoothly",
+        "category": "Supplementary",
+        "iso_reference": "ISO 2553 Table 3",
+        "path": "weld_symbols/supplementary/S04_blended_toes.svg"
+    },
+    "S05a": {
+        "name": "Back run",
+        "category": "Supplementary",
+        "iso_reference": "ISO 2553 Table 3",
+        "path": "weld_symbols/supplementary/S05a_back_run.svg"
+    },
+    "S05b": {
+        "name": "Backing weld",
+        "category": "Supplementary",
+        "iso_reference": "ISO 2553 Table 3",
+        "path": "weld_symbols/supplementary/S05b_backing_weld.svg"
+    },
+    "S06": {
+        "name": "Specified root reinforcement",
+        "category": "Supplementary",
+        "iso_reference": "ISO 2553 Table 3",
+        "path": "weld_symbols/supplementary/S06_root_reinforcement.svg"
+    },
+    "S07a": {
+        "name": "Backing (unspecified)",
+        "category": "Supplementary",
+        "iso_reference": "ISO 2553 Table 3",
+        "path": "weld_symbols/supplementary/S07a_backing_unspecified.svg"
+    },
+    "S07b": {
+        "name": "Permanent backing",
+        "category": "Supplementary",
+        "iso_reference": "ISO 2553 Table 3",
+        "path": "weld_symbols/supplementary/S07b_permanent_backing.svg"
+    },
+    "S07c": {
+        "name": "Removable backing",
+        "category": "Supplementary",
+        "iso_reference": "ISO 2553 Table 3",
+        "path": "weld_symbols/supplementary/S07c_removable_backing.svg"
+    },
+    "S08": {
+        "name": "Spacer",
+        "category": "Supplementary",
+        "iso_reference": "ISO 2553 Table 3",
+        "path": "weld_symbols/supplementary/S08_spacer.svg"
+    },
+    "S09": {
+        "name": "Consumable insert",
+        "category": "Supplementary",
+        "iso_reference": "ISO 2553 Table 3",
+        "path": "weld_symbols/supplementary/S09_consumable_insert.svg"
+    },
+    "S10": {
+        "name": "Weld-all-around",
+        "category": "Supplementary",
+        "iso_reference": "ISO 2553 Table 3",
+        "path": "weld_symbols/supplementary/S10_weld_all_around.svg"
+    },
+    "S11": {
+        "name": "Weld between two points",
+        "category": "Supplementary",
+        "iso_reference": "ISO 2553 Table 3",
+        "path": "weld_symbols/supplementary/S11_between_points.svg"
+    },
+    "S12": {
+        "name": "Field weld",
+        "category": "Supplementary",
+        "iso_reference": "ISO 2553 Table 3",
+        "path": "weld_symbols/supplementary/S12_field_weld.svg"
+    },
+    "S13": {
+        "name": "Staggered intermittent weld",
+        "category": "Supplementary",
+        "iso_reference": "ISO 2553 Table 3",
+        "path": "weld_symbols/supplementary/S13_staggered_intermediate.svg"
+    }
+}
