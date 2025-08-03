@@ -7,3 +7,5 @@ clean-cswip/
 
 __pycache__/
 *.pyc
+
+*.zip

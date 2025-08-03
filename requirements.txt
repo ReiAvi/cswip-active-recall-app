@@ -1,0 +1,31 @@
+# Core UI and App Framework
+streamlit
+
+# PDF/Text Extraction
+PyPDF2
+pdfminer.six
+
+# OCR Support (for scanned/image-only PDFs)
+pytesseract
+Pillow
+
+# Data Handling & Utilities
+pandas
+
+# Optional: YAML config parsing
+pyyaml
+
+# LLM/OpenAI Integration (if/when needed)
+openai
+
+# Plotting/Visualization (if you add study stats etc.)
+matplotlib
+
+# For working with environment variables
+python-dotenv
+
+# (Optional) Rich terminal output and Markdown parsing
+rich
+markdown
+
+
