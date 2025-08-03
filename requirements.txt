@@ -1,3 +1,9 @@
+openai
+python-dotenv
+
+pdfminer.six
+
+
 # Core UI and App Framework
 streamlit
 

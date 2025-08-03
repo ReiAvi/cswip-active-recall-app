@@ -3,16 +3,18 @@ import PyPDF2
 
 def extract_pdf_text(file_path):
     text = ""
-    with open(file_path, "rb") as f:
-        reader = PyPDF2.PdfReader(f)
-        for page in reader.pages:
-            page_text = page.extract_text()
-            if page_text:
-                text += page_text + "\n"
+    try:
+        with open(file_path, "rb") as f:
+            reader = PyPDF2.PdfReader(f)
+            for page in reader.pages:
+                page_text = page.extract_text()
+                if page_text:
+                    text += page_text + "\n"
+    except Exception as e:
+        print(f"Skipping {file_path}: {e}")
     return text
 
 def find_topic_sections(text, topic, window=2):
-    # Split text into lines
     lines = text.split('\n')
     results = []
     for i, line in enumerate(lines):
