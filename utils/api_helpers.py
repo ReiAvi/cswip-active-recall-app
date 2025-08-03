@@ -9,7 +9,7 @@ if not api_key:
     raise ValueError("API key not found. Add it to your .env file or Streamlit secrets.")
 
 client = OpenAI(api_key=api_key)
-ASSISTANT_ID = "asst_HuVkwTSZOUCyEsfPqG8brELe"  # Update if your Assistant ID is different
+ASSISTANT_ID = "asst_HuVkwTSZOUCyEsfPqG8brELe"  # Update if needed
 
 def generate_qa_from_assistant(topic, section):
     prompt = (

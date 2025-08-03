@@ -15,10 +15,12 @@ def extract_pdf_text(file_path):
     return text
 
 def find_topic_sections(text, topic, window=2):
+    # Improved: split topic into keywords, match if any keyword is present in line
+    keywords = [t.strip().lower() for t in topic.replace(':', ' ').split()]
     lines = text.split('\n')
     results = []
     for i, line in enumerate(lines):
-        if topic.lower() in line.lower():
+        if any(k in line.lower() for k in keywords):
             start = max(i - window, 0)
             end = min(i + window + 1, len(lines))
             section = "\n".join(lines[start:end])
