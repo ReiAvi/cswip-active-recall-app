@@ -1,0 +1,9 @@
+.env
+*.env
+
+__pycache__/
+*.pyc
+clean-cswip/
+
+__pycache__/
+*.pyc
